@@ -10,6 +10,7 @@ Below softwares are mandatory:
 
 
 We can create one EC2 Server and use it as work station to create EKS cluster.
+
 https://github.com/Maheshwar5/k8s-install/blob/fcbc9940a9f3f450b554545d74d83e5087077cdf/eks-setup-flow.png
 
 
