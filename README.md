@@ -9,6 +9,9 @@ Below softwares are mandatory:
 - kubectl 
 
 
+We can create one EC2 Server and use it as work station to create EKS cluster.
+https://github.com/Maheshwar5/k8s-install/blob/master/eks-setup-flow.png
+
 
 Install AWS CLI, by default AWS instance gets V1, We need to upgrade to V2.
 AWS cli steps:
