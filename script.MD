@@ -1,4 +1,4 @@
-### SCRIPT
+###  SCRIPT
 
 #### Steps:
 * Create IAM user with administrator access. Create access_key and security_key. **Don't keep these in GIT**
