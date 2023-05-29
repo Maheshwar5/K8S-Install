@@ -12,4 +12,4 @@ managedNodeGroups:
 - name: spot-1
   spot: true
   ssh:
-    publicKeyName: mykeypair
+    publicKeyName: Mahesh
